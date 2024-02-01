@@ -1,4 +1,4 @@
-<h1>Projeto Starbucks desenvolvido no evento Programação do Zero da DevClub </h1>
+<h1>Projeto Starbucks desenvolvido no evento Programação do Zero da DevClub :coffee: </h1>
 <br>
 <p>Foi um evento no qual foi ensinado sobre a carreira de um programador,
   <br>
